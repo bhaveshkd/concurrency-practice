@@ -1,4 +1,4 @@
-package main.java.com.example;
+package main.java.com.basicMultiThreading;
 
 public class ExtendsThreadExample {
     public static void main(String[] args) {

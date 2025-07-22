@@ -1,4 +1,4 @@
-package main.java.com.example;
+package main.java.com.basicMultiThreading;
 
 public class WaitAndNotifyDemo {
     public static final Object LOCK = new Object();
